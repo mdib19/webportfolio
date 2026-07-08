@@ -28,7 +28,6 @@ and footer. <br>
 development. <br>
 • Utilize HTML lists or tables for clear organization. <br>
  
- 
 5. Contact Information: 
 • Include a "Contact" section with your email address and social media links. <br>
 • Create clickable links that open your email client and social media profiles in new tabs. <br>
