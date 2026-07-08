@@ -26,6 +26,18 @@ body {
     z-index:1000;
 }
 
+/*NAVBAR TOGGLE*/
+#togglemenu{
+    display:none;
+}
+
+.toggle{
+    display:none;
+    color:white;
+    font-size:28px;
+    cursor:pointer;
+}
+
 .nav-links{
     display:flex;
     gap:20px;
@@ -104,7 +116,8 @@ body {
 }
 
 .projects-card{
-    width:250px;
+    height:auto;
+    max-width:250px;
     padding: 50px;
     border: 3px solid #1e3a8a;
     border-radius: 12px;
@@ -246,7 +259,8 @@ body {
 }
 
 .skills-card{
-    width:250px;
+    height:auto;
+    max-width:250px;
     background:white;
     border-radius:12px;
     border: 1.5px solid skyblue;
@@ -307,7 +321,8 @@ body {
 
 .achievements-card{
     background: #1e293b;
-    width:300px;
+    max-width:300px;
+    height:auto;
     border-radius: 12px;
     transition: 0.3s ease;
     border-left: 4px solid transparent;
@@ -386,18 +401,6 @@ body {
 
 /* RESPONSIVE DESIGN */
 
-/*NAVBAR TOGGLE*/
-#togglemenu{
-    display:none;
-}
-
-.toggle{
-    display:none;
-    color:white;
-    font-size:28px;
-    cursor:pointer;
-}
-
 @media (max-width:768px){
 
     .toggle{
@@ -429,10 +432,6 @@ body {
         justify-content: center;
         overflow-wrap: normal;
     }
-
-
-
-
 
 
 
