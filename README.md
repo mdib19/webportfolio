@@ -9,13 +9,13 @@ information.
  
 # Requirements: 
 
-1. HTML Structure: 
+1. HTML Structure: <br>
 • Create an HTML document that outlines the structure of your portfolio website. <br>
 • Use appropriate HTML tags to create a header, navigation menu, main content section, 
 and footer. <br>
 • Ensure the HTML is semantically structured, with proper headings and paragraphs. <br>
  
-2. CSS Styling: 
+2. CSS Styling: <br>
 • Apply CSS styles to your website to enhance its visual appeal. <br>
 • Implement a consistent color scheme and typography throughout the website. <br>
 • Use CSS selectors to style specific elements, such as headings, links, and images. <br>
@@ -28,7 +28,7 @@ and footer. <br>
 development. <br>
 • Utilize HTML lists or tables for clear organization. <br>
  
-5. Contact Information: 
+5. Contact Information: <br>
 • Include a "Contact" section with your email address and social media links. <br>
 • Create clickable links that open your email client and social media profiles in new tabs. <br>
  
