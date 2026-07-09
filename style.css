@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     overflow-y: auto;
+    overflow-x:auto;
 }
 
 html{
@@ -89,7 +90,7 @@ body {
     font-weight: 500;
     margin-top: 50px;
     margin-right: 20px;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 150px;
     color:white;
 }
 
@@ -329,7 +330,7 @@ body {
 
 .achievements-card{
     background: #1e293b;
-    max-width:300px;
+    max-width:320px;
     height:auto;
     border-radius: 12px;
     transition: 0.3s ease;
@@ -439,7 +440,7 @@ body {
     body{
         justify-content: center;
         overflow-wrap: normal;
-        overflow-y:auto;
+        overflow-x:auto;
     }
 
 
